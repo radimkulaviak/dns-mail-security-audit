@@ -2,7 +2,7 @@
 
 **Language versions:** [Deutsch](README_DE.md)
 
-Bulk check of many domains, CSV output. Born from running DNS for ~250 domains on [isol.cz](https://www.isol.cz).
+Bulk check of many domains, CSV output. Born from running DNS for 240+ domains on [isol.cz](https://www.isol.cz).
 
 ## Checks per domain
 - Number of NS records

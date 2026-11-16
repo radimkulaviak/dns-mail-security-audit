@@ -2,7 +2,7 @@
 
 **Sprachversionen:** [English](README.md)
 
-Massenprüfung vieler Domains mit CSV-Ausgabe. Entstanden beim Betrieb von DNS für ~250 Domains auf [isol.cz](https://www.isol.cz).
+Massenprüfung vieler Domains mit CSV-Ausgabe. Entstanden beim Betrieb von DNS für 240+ Domains auf [isol.cz](https://www.isol.cz).
 
 ## Prüfungen pro Domain
 - Anzahl der NS-Einträge
